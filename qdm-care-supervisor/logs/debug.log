@@ -1,0 +1,206 @@
+2020-08-17 10:23:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 13736 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:23:38 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:23:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 10:23:47 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 9.147 seconds (JVM running for 10.274)
+2020-08-17 10:28:59 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 13736 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:28:59 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:28:59 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 10:29:01 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 2.113 seconds (JVM running for 324.554)
+2020-08-17 10:48:12 [main] INFO  c.q.c.u.c.CareGiverControllerTest - Starting CareGiverControllerTest on LAPTOP-GBKRVFU8 with PID 7664 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:48:12 [main] DEBUG c.q.c.u.c.CareGiverControllerTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:48:12 [main] INFO  c.q.c.u.c.CareGiverControllerTest - The following profiles are active: dev
+2020-08-17 10:48:14 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 7664 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:48:14 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:48:14 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 10:48:19 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.155 seconds (JVM running for 9.063)
+2020-08-17 10:51:48 [main] INFO  c.q.c.u.c.CareGiverControllerTest - Starting CareGiverControllerTest on LAPTOP-GBKRVFU8 with PID 13040 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:51:48 [main] DEBUG c.q.c.u.c.CareGiverControllerTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:51:48 [main] INFO  c.q.c.u.c.CareGiverControllerTest - The following profiles are active: dev
+2020-08-17 10:51:49 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 13040 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:51:49 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:51:49 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 10:51:54 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 4.835 seconds (JVM running for 7.973)
+2020-08-17 10:53:54 [main] INFO  c.q.c.u.c.CareGiverControllerTest - Starting CareGiverControllerTest on LAPTOP-GBKRVFU8 with PID 3116 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:53:54 [main] DEBUG c.q.c.u.c.CareGiverControllerTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:53:54 [main] INFO  c.q.c.u.c.CareGiverControllerTest - The following profiles are active: dev
+2020-08-17 10:54:42 [main] INFO  c.q.c.u.c.CareGiverControllerTest - Starting CareGiverControllerTest on LAPTOP-GBKRVFU8 with PID 2172 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:54:42 [main] DEBUG c.q.c.u.c.CareGiverControllerTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:54:42 [main] INFO  c.q.c.u.c.CareGiverControllerTest - The following profiles are active: dev
+2020-08-17 10:55:41 [main] INFO  c.q.c.u.c.CareGiverControllerTest - Starting CareGiverControllerTest on LAPTOP-GBKRVFU8 with PID 268 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:55:41 [main] DEBUG c.q.c.u.c.CareGiverControllerTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:55:41 [main] INFO  c.q.c.u.c.CareGiverControllerTest - The following profiles are active: dev
+2020-08-17 10:56:35 [main] INFO  c.q.c.u.c.CareGiverControllerTest - Starting CareGiverControllerTest on LAPTOP-GBKRVFU8 with PID 11536 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 10:56:35 [main] DEBUG c.q.c.u.c.CareGiverControllerTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 10:56:35 [main] INFO  c.q.c.u.c.CareGiverControllerTest - The following profiles are active: dev
+2020-08-17 11:06:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 9616 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:06:06 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:06:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 11:06:10 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 4.044 seconds (JVM running for 4.747)
+2020-08-17 11:11:19 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 7856 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:11:19 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:11:19 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 11:11:23 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 3.778 seconds (JVM running for 4.459)
+2020-08-17 11:12:22 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 13692 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:12:22 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:12:22 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:12:28 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.85 seconds (JVM running for 7.199)
+2020-08-17 11:12:28 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:15:28 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 6896 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:15:28 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:15:28 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:15:34 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.543 seconds (JVM running for 6.92)
+2020-08-17 11:15:34 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:16:12 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 13916 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:16:12 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:16:12 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:16:18 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.961 seconds (JVM running for 7.329)
+2020-08-17 11:16:19 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:16:52 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 13996 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:16:52 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:16:52 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:16:57 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.819 seconds (JVM running for 7.169)
+2020-08-17 11:16:58 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:16:58 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:18:43 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 10944 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:18:43 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:18:43 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:18:49 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 6.407 seconds (JVM running for 7.864)
+2020-08-17 11:18:50 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:18:50 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:19:58 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 8504 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:19:58 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:19:58 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:20:04 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.639 seconds (JVM running for 6.965)
+2020-08-17 11:20:04 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:20:59 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 11960 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:20:59 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:20:59 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:21:05 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.873 seconds (JVM running for 7.306)
+2020-08-17 11:21:06 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:23:14 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 1360 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:23:14 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:23:14 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:23:19 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.6 seconds (JVM running for 6.985)
+2020-08-17 11:23:19 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:23:20 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:24:03 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 8212 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:24:03 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:24:03 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:24:08 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.464 seconds (JVM running for 6.811)
+2020-08-17 11:24:08 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:24:09 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:25:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 8824 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:25:06 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:25:06 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 11:25:10 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 4.263 seconds (JVM running for 4.973)
+2020-08-17 11:25:16 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 7316 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:25:16 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:25:16 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:25:22 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.642 seconds (JVM running for 7.05)
+2020-08-17 11:25:22 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:25:22 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:26:12 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 1408 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:26:12 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:26:12 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:26:17 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.486 seconds (JVM running for 6.782)
+2020-08-17 11:26:17 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:26:18 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:28:56 [http-nio-9999-exec-1] ERROR c.q.c.u.c.CareProviderController - Error Occured At addCareProvider : null
+2020-08-17 11:29:03 [http-nio-9999-exec-4] ERROR c.q.c.u.c.CareProviderController - Error Occured At addCareProvider : null
+2020-08-17 11:29:15 [http-nio-9999-exec-6] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 3
+2020-08-17 11:29:32 [http-nio-9999-exec-7] ERROR c.q.c.u.c.CareProviderController - Error Occured At addCareProvider : null
+2020-08-17 11:31:56 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 10512 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:31:56 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:31:56 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:32:02 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.694 seconds (JVM running for 7.106)
+2020-08-17 11:32:02 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:39:48 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 10756 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:39:48 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:39:48 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:39:54 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 6.191 seconds (JVM running for 7.71)
+2020-08-17 11:39:55 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:40:30 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 5460 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:40:30 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:40:30 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:40:35 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.653 seconds (JVM running for 7.236)
+2020-08-17 11:40:36 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:42:09 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 9496 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:42:09 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:42:09 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:42:14 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.624 seconds (JVM running for 7.207)
+2020-08-17 11:42:15 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:46:56 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 1292 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:46:56 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:46:56 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:47:02 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 6.831 seconds (JVM running for 8.436)
+2020-08-17 11:47:02 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:47:03 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:47:32 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 9624 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:47:32 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:47:32 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:47:38 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 6.525 seconds (JVM running for 8.04)
+2020-08-17 11:47:39 [main] ERROR c.q.c.u.c.CareGiverController - Error Occured At AddCareGiver : null
+2020-08-17 11:47:39 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 11:49:09 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 1852 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 11:49:09 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 11:49:09 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 11:49:14 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 5.6 seconds (JVM running for 7.025)
+2020-08-17 11:49:15 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 12:01:03 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 8216 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 12:01:03 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 12:01:03 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 12:01:12 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 9.717 seconds (JVM running for 11.823)
+2020-08-17 12:01:13 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 12:02:02 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 11444 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 12:02:02 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 12:02:02 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 12:02:11 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 9.769 seconds (JVM running for 12.149)
+2020-08-17 12:02:12 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 12:05:43 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 7008 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 12:05:43 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 12:05:43 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 12:05:51 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 8.305 seconds (JVM running for 10.397)
+2020-08-17 12:05:52 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 12:13:20 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Starting QdmCareSupervisorApplicationTests on LAPTOP-GBKRVFU8 with PID 9084 (started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 12:13:20 [main] DEBUG c.q.c.QdmCareSupervisorApplicationTests - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 12:13:20 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - The following profiles are active: dev
+2020-08-17 12:13:27 [main] INFO  c.q.c.QdmCareSupervisorApplicationTests - Started QdmCareSupervisorApplicationTests in 8.062 seconds (JVM running for 10.272)
+2020-08-17 12:13:28 [main] INFO  c.q.c.u.c.CareGiverController - Care Givers List []
+2020-08-17 12:14:20 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 3660 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 12:14:21 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 12:14:21 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 12:14:26 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 6.52 seconds (JVM running for 7.836)
+2020-08-17 15:12:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10476 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 15:12:04 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 15:12:04 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 15:12:07 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 3.248 seconds (JVM running for 3.935)
+2020-08-17 15:13:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10476 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 15:13:38 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 15:13:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 15:13:38 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 0.968 seconds (JVM running for 94.901)
+2020-08-17 15:13:48 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 1
+2020-08-17 15:14:04 [http-nio-8443-exec-3] INFO  c.q.c.u.c.CareGiverController - Care Giver Created Successfully With CareGiver_Id : 2
+2020-08-17 15:14:30 [http-nio-8443-exec-4] INFO  c.q.c.u.c.CareGiverController - Care Givers List [{Availability=Active, Care_Giver_ID=1, Profile_Picture=[B@10ec5508, Clients_Count=0, Care_Giver_Name=GiverTest1}, {Availability=Active, Care_Giver_ID=2, Profile_Picture=[B@48c1b22, Clients_Count=0, Care_Giver_Name=GiverTest2}]
+2020-08-17 15:14:58 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Record By CareGiverId : 1
+2020-08-17 15:15:17 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-08-17 15:16:10 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-08-17 15:16:18 [http-nio-8443-exec-9] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-08-17 15:16:53 [http-nio-8443-exec-10] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-08-17 15:17:24 [http-nio-8443-exec-1] INFO  c.q.c.u.c.CareGiverController - CareGiver Updated Successfully with Id 1
+2020-08-17 15:17:32 [http-nio-8443-exec-2] INFO  c.q.c.u.c.CareGiverController - Get CareGiver Records By CareGiverId 1
+2020-08-17 15:18:46 [http-nio-8443-exec-5] INFO  c.q.c.u.c.CareProviderController - Created Care Provider Successfully With ID : 1
+2020-08-17 15:19:05 [http-nio-8443-exec-6] INFO  c.q.c.u.c.CareProviderController - Get All CareProviders Records
+2020-08-17 15:19:24 [http-nio-8443-exec-7] INFO  c.q.c.u.c.CareProviderController - Get CareProviders Records By CareProviderId 
+2020-08-17 15:20:21 [http-nio-8443-exec-8] INFO  c.q.c.u.c.CareProviderController - Updated Care Provider With Id : 1
+2020-08-17 15:20:30 [http-nio-8443-exec-9] INFO  c.q.c.u.c.CareProviderController - Get CareProviders Records By CareProviderId 
+2020-08-17 15:21:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10476 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 15:21:48 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 15:21:48 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 15:21:49 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.075 seconds (JVM running for 585.11)
+2020-08-17 15:21:52 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10476 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 15:21:52 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 15:21:52 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
+2020-08-17 15:21:53 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Started QdmCareSupervisorApplication in 1.037 seconds (JVM running for 589.855)
+2020-08-17 15:24:08 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - Starting QdmCareSupervisorApplication on LAPTOP-GBKRVFU8 with PID 10476 (C:\Users\nandh\git\repository\qdm-care-supervisor\target\classes started by nandh in C:\Users\nandh\git\repository\qdm-care-supervisor)
+2020-08-17 15:24:08 [restartedMain] DEBUG c.q.cs.QdmCareSupervisorApplication - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-08-17 15:24:08 [restartedMain] INFO  c.q.cs.QdmCareSupervisorApplication - The following profiles are active: dev
